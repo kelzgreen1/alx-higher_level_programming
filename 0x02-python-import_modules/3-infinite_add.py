@@ -5,3 +5,4 @@ if __name__ == "__main__":
     for i in sys.argv:
         result += int(i)
         print("{}".format(result))
+)
